@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            ddanddan's blog
+tagline:          'ddanddan18'
+description:      '딴딴하게 살아가는 이야기' 
 url:              "https://ddanddan18.github.io/"
 baseurl:          ""
 
@@ -23,7 +23,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/ddanddan18/
 
 gems: [jekyll-paginate]
 #paginate: 5
