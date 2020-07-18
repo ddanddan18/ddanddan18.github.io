@@ -6,7 +6,7 @@ categories:
 tags:
   - 방문후기
 comments: true
-cover: assets/images/2020-07-19-img1.jpg
+cover: /assets/images/2020-07-19-img1.jpg
 ---
 
 맥북 16인치를 샀다! 그리고 고민을 하다가.. 외부보호필름을 붙이기로 했다.
@@ -33,5 +33,5 @@ cover: assets/images/2020-07-19-img1.jpg
 
 혹시나 해서 공홈에 나와있는 약도와 길 설명을 첨부한다!
 
-![](assets/images/2020-07-19-img1.jpg)
+![](/assets/images/2020-07-19-img1.jpg)
 
