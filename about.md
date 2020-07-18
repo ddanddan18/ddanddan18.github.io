@@ -5,9 +5,9 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  안녕하세요 조딴딴입니다.
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+⚽️ snuwfc no.18<br>
+💎 BLUESIGNUM Corp. SW engineer<br>
+🏃‍♂️ SNU major in CSE & Human movement science(my own major)<br>
