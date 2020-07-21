@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<meta name="google-site-verification" content="iKCmB1d1C0YquLiJimlN5jdP3UVw4S4pzzArEBaz6Pk" />
+
 <div class="content">
   {% include pagination-newer.html %}
 
