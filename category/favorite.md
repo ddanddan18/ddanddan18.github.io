@@ -3,4 +3,4 @@ layout: category
 title: Favorite
 ---
 
-좋아하는 거
+재밌어서 좋아하는 거
